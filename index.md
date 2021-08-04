@@ -39,7 +39,3 @@ Contact Information
 * Jim Basney <jbasney@illinois.edu>
 * Brian Bockelman <bbockelman@morgridge.org>
 * Derek Weitzel <dweitzel@unl.edu>
-
-Acknowledgements
-----------------
-This workshop is co-organized by [SciAuth](https://sciauth.org/) and [TAGPMA](http://www.tagpma.org/). SciAuth is supported by the National Science Foundation under Grant No. 2114989. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
