@@ -2,7 +2,7 @@ The 2021 NSF CyberSecurity Summit Workshop on Token-Based Authentication and Aut
 
 Call for Presentations
 ----------------------
-To present at the workshop, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to workshop@sciauth.org by *September 14*.
+To present at the workshop, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by *September 14*.
 
 About the Workshop
 ------------------
