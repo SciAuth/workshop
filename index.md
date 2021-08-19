@@ -1,4 +1,4 @@
-The 2021 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2021) will be held online from 10am to 2pm Eastern Time on Thursday, October 14, co-located with the [2021 NSF Cybersecurity Summit](https://www.trustedci.org/2021-cybersecurity-summit). Summit registration will be required to attend the workshop. Registration is not yet open. There will be no registration fee.
+The 2021 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2021) will be held online from 10am to 2pm Eastern Time on Monday, October 18, co-located with the [2021 NSF Cybersecurity Summit](https://www.trustedci.org/2021-cybersecurity-summit). Summit registration will be required to attend the workshop. Registration is not yet open. There will be no registration fee.
 
 Call for Presentations
 ----------------------
