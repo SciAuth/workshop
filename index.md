@@ -1,8 +1,10 @@
 The 2021 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2021) will be held online from 10am to 2pm Eastern Time on Monday, October 18, co-located with the [2021 NSF Cybersecurity Summit](https://www.trustedci.org/2021-cybersecurity-summit). Summit registration will be required to attend the workshop. Please register now at [https://www.trustedci.org/2021-cybersecurity-summit](https://www.trustedci.org/2021-cybersecurity-summit). There is no registration fee.
 
+WoTBAn&Az 2021 will be preceded by the October 14-15 [OSG Token Transition Workshop](https://opensciencegrid.org/events/Token-Transition-Workshop/).
+
 Call for Presentations
 ----------------------
-To present at the workshop, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by ~~September 14~~ September 30.
+To present at WoTBAn&Az 2021, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by ~~September 14~~ September 30.
 
 About the Workshop
 ------------------
