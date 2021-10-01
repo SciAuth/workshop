@@ -4,7 +4,7 @@ WoTBAn&Az 2021 will be preceded by the October 14-15 [OSG Token Transition Works
 
 Call for Presentations
 ----------------------
-To present at WoTBAn&Az 2021, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by ~~September 14~~ September 30.
+The call for presentations is now closed. The workshop schedule will be posted soon.
 
 About the Workshop
 ------------------
