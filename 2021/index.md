@@ -18,16 +18,16 @@ The following draft schedule is subject to change.
 
 Time (Eastern) | Topic | Presenters
 -------------- | ----- | ----------
-10:00-10:10 | Intro | Derek Simmel
-10:10-10:50 | Tokens in the Worldwide LHC (Large Hadron Collider) Computing Grid (WLCG) | Hannah Short, Mine Altunay, Dave Dykstra, Jim Basney, Andrea Ceccanti
-10:50-11:30 | Tokens in the Tapis API Platform | Rich Cardone, Sean Cleveland, and Joe Stubbs
-11:30-11:40 | Break
-11:40-12:00 | Using CiLogon OIDC service for users authentication in kubernetes | Dmitry Mishin
-12:00-12:30 | SciTokens at LIGO | Ron Tapia
-12:30-1:00  | HTCondor and OSG Token Transition | Brian Bockelman
- 1:00-1:10  | Break
- 1:10-1:50  | Discussion
- 1:50-2:00  | Wrapup | Derek Simmel
+[10:00-10:10](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1000&p1=3723&am=10) | Intro | Derek Simmel
+[10:10-10:50](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1010&p1=3723&am=40) | Tokens in the Worldwide LHC (Large Hadron Collider) Computing Grid (WLCG) | Hannah Short, Mine Altunay, Dave Dykstra, Jim Basney, Andrea Ceccanti
+[10:50-11:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1050&p1=3723&am=40) | Tokens in the Tapis API Platform | Rich Cardone, Sean Cleveland, and Joe Stubbs
+[11:30-11:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1130&p1=3723&am=10) | Break
+[11:40-12:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1140&p1=3723&am=20) | Using CiLogon OIDC service for users authentication in kubernetes | Dmitry Mishin
+[12:00-12:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1200&p1=3723&am=30) | SciTokens at LIGO | Ron Tapia
+[12:30-1:00 ](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1230&p1=3723&am=30)  | HTCondor and OSG Token Transition | Brian Bockelman
+[ 1:00-1:10 ](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1300&p1=3723&am=10)  | Break
+[ 1:10-1:50 ](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1310&p1=3723&am=40) | Discussion
+[ 1:50-2:00 ](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1350&p1=3723&am=10) | Wrapup | Derek Simmel
 
 About the Workshop
 ------------------
