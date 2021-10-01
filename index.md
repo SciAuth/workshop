@@ -6,4 +6,4 @@ The 2021 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Aut
 
 WoTBAn&Az 2021 will be preceded by the October 14-15 [OSG Token Transition Workshop](https://opensciencegrid.org/events/Token-Transition-Workshop/).
 
-For more information about WoTBAn&Az 2021, please visit [https://sciauth.org/workshop/2021](https://sciauth.org/workshop/2021).
+For more information about WoTBAn&Az 2021, please visit [https://sciauth.org/workshop/2021/](https://sciauth.org/workshop/2021/).
