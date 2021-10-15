@@ -23,7 +23,7 @@ Time (Eastern) | Topic | Presenters
 [10:50-11:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1050&p1=3723&am=40) | Tokens in the Tapis API Platform | Rich Cardone, Sean Cleveland, and Joe Stubbs
 [11:30-11:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1130&p1=3723&am=10) | Break
 [11:40-12:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1140&p1=3723&am=20) | Using CiLogon OIDC service for users authentication in kubernetes | Dmitry Mishin
-[12:00-12:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1200&p1=3723&am=30) | SciTokens at LIGO | Ron Tapia
+[12:00-12:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1200&p1=3723&am=30) | SciTokens at LIGO | James Clark
 [12:30-1:00 ](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1230&p1=3723&am=30)  | HTCondor and OSG Token Transition | Brian Bockelman
 [ 1:00-1:10 ](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1300&p1=3723&am=10)  | Break
 [ 1:10-1:50 ](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1310&p1=3723&am=40) | Discussion
