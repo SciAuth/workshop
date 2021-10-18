@@ -2,7 +2,7 @@
 title: "WoTBAn&Az 2021"
 ---
 
-The 2021 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2021) will be held online [from 10am to 2pm Eastern Time on Monday, October 18](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WoTBAn%26Az+2021&iso=20211018T10&p1=3723&ah=4), co-located with the [2021 NSF Cybersecurity Summit](https://www.trustedci.org/2021-cybersecurity-summit). Please contact [workshop@sciauth.org](mailto:workshop@sciauth.org) for Zoom coordinates or for any questions.
+The 2021 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2021) was held online [from 10am to 2pm Eastern Time on Monday, October 18](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WoTBAn%26Az+2021&iso=20211018T10&p1=3723&ah=4), co-located with the [2021 NSF Cybersecurity Summit](https://www.trustedci.org/2021-cybersecurity-summit).
 
 WoTBAn&Az 2021 was preceded by the October 14-15 [OSG Token Transition Workshop](https://opensciencegrid.org/events/Token-Transition-Workshop/).
 
@@ -10,7 +10,7 @@ Workshop Materials and Recordings
 ------------------
 See the schedule below for links to available workshop materials. Presenters, please submit workshop materials by email to [workshop@sciauth.org](mailto:workshop@sciauth.org) or by opening a GitHub [issue](https://github.com/SciAuth/workshop/issues) or [pull request](https://github.com/SciAuth/workshop/pulls).
 
-We plan to record the workshop - to capture presenter and audience comments and to make sessions available for later replay online.
+We plan to post the workshop recording soon.
 
 Workshop Schedule
 ------------------
