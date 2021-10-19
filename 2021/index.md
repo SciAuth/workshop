@@ -8,7 +8,7 @@ WoTBAn&Az 2021 was preceded by the October 14-15 [OSG Token Transition Workshop]
 
 Workshop Materials and Recordings
 ------------------
-See the schedule below for links to available workshop materials. Presenters, please submit workshop materials by email to [workshop@sciauth.org](mailto:workshop@sciauth.org) or by opening a GitHub [issue](https://github.com/SciAuth/workshop/issues) or [pull request](https://github.com/SciAuth/workshop/pulls).
+See the schedule below for links to available workshop materials.
 
 We plan to post the workshop recording soon.
 
