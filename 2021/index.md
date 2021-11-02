@@ -10,7 +10,7 @@ Workshop Materials and Recordings
 ------------------
 See the schedule below for links to available workshop materials.
 
-We plan to post the workshop recording soon.
+The workshop recording is posted to YouTube at [https://youtu.be/BLwTqgmmIUs](https://youtu.be/BLwTqgmmIUs).
 
 Workshop Schedule
 ------------------
