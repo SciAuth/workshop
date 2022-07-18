@@ -6,7 +6,7 @@ The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Aut
 
 Call for Presentations
 ----------------------
-To present at WoTBAn&Az 2022, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by September 12.
+To present at WoTBAn&Az 2022, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by August 31.
 
 About the Workshop
 ------------------
@@ -27,7 +27,7 @@ Workshop Chairs
 
 Planned Activity and Intended Audience
 --------------------------------------
-Following an initial 20-minute welcome and introduction session, four 40-minute presentations or panel sessions from selected contributors will take place, followed by a final 40-minute all-hands discussion and goal-setting session. 5-minute breaks will separate the 40-minute sessions.
+Following an initial 10-minute welcome and introduction session, four 30-minute presentations or panel sessions from selected contributors will take place, followed by a final 30-minute all-hands discussion and goal-setting session.
 
 The intended audience includes developers, operators, and stakeholders in interoperable JWT-based AAI for the worldwide science, engineering, research and academic communities.
 We intend for all sessions to be recorded - to capture presenter and audience comments and to make sessions available for later replay online.
