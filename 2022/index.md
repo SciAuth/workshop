@@ -6,7 +6,7 @@ The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Aut
 
 Call for Presentations
 ----------------------
-To present at WoTBAn&Az 2022, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by August 31.
+To present at WoTBAn&Az 2022, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by **August 31, 2022**.
 
 About the Workshop
 ------------------
