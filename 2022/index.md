@@ -2,7 +2,7 @@
 title: "WoTBAn&Az 2022"
 ---
 
-The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2022) will be held Tuesday, October 18, co-located with the [2022 NSF Cybersecurity Summit](https://www.trustedci.org/2022-cybersecurity-summit). Summit registration will be required to attend the workshop. There is no registration fee.
+The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2022) will be held Tuesday, October 18, co-located with the [2022 NSF Cybersecurity Summit](https://www.trustedci.org/2022-cybersecurity-summit) in Bloomington, Indiana, USA.
 
 Call for Presentations
 ----------------------
