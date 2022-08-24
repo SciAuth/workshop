@@ -8,6 +8,13 @@ Call for Presentations
 ----------------------
 To present at WoTBAn&Az 2022, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by **September 6, 2022**.
 
+We hope that presenters will be able to join us in person at the workshop in Bloomington. For presenters unable to travel, we will accommodate remote delivery of accepted presentations via Zoom.
+
+Registration to the 2022 NSF Cybersecurity Summit is free (and required to present) at:
+<https://www.trustedci.org/2022-cybersecurity-summit>
+
+We look forward to your submissions. Questions regarding presentation submissions may also be sent to <workshop@sciauth.org>.
+
 About the Workshop
 ------------------
 As the worldwide science, engineering, research and academic communities have become more interdependent to pursue and succeed in their missions, so too has the need for interoperable, usable, and manageable approaches for authentication, authorization and identity (AAI) infrastructure that build upon federated identity and group management solutions to ensure consistent access standards, enforcement and protection of CI resources and assets. Decades of effort in establishing international trust federations and standards for PKI and secure interoperation using digital credentials in the research and education communities have enabled essential interoperability, security and trust for national and international science collaborations. As more web-based computational science and data applications, workflows and automated pipelines are deployed, a more robust, interoperable AAI infrastructure is needed - enter JSON Web Tokens (JWT), an open IETF standard (RFC 7519) for securely exchanging information in digitally signed JSON objects. Many large institutions, science collaborations and national CIs are working to migrate their regional and project-specific AAI infrastructures to JWT-based methods -- typically however, in isolation and attending primarily to their local needs and maintaining compatibility with their existing AAI infrastructures. Coupled with international standards for security and authorization information to be contained in these JWTs, we have both an opportunity and an obligation to ensure that best practices are developed and observed to ensure compatibility, interoperability, usability and trust in these implementations.
