@@ -6,9 +6,9 @@ The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Aut
 
 Call for Presentations
 ----------------------
-To present at WoTBAn&Az 2022, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by **September 6, 2022**.
+**Deadline extended!** To present at WoTBAn&Az 2022, please send the names, affiliations, and emails for the presenters along with the title and a _short_ description of the topic to be presented to <workshop@sciauth.org> by **September 16, 2022**.
 
-We hope that presenters will be able to join us in person at the workshop in Bloomington. For presenters unable to travel, we will accommodate remote delivery of accepted presentations via Zoom.
+We hope that presenters will be able to join us in person at the workshop in Bloomington. **For presenters unable to travel, we will accommodate remote delivery of accepted presentations via Zoom**.
 
 Registration to the 2022 NSF Cybersecurity Summit is free (and required to present) at:
 <https://www.trustedci.org/2022-cybersecurity-summit>
