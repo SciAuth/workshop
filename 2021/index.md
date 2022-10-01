@@ -15,8 +15,6 @@ The workshop recording is posted to YouTube at [https://youtu.be/BLwTqgmmIUs](ht
 Workshop Schedule
 ------------------
 
-The following schedule is tentative and subject to change.
-
 Time (Eastern) | Topic | Presenters | Materials
 -------------- | ----- | ---------- | ---------
 [10:00-10:10](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211018T1000&p1=3723&am=10) | Intro | Derek Simmel
