@@ -12,6 +12,8 @@ We expect to post the workshop recording to YouTube after the event.
 Workshop Schedule
 ------------------
 
+The workshop will be held Tuesday, October 18, 2022.
+
 The following schedule is tentative and subject to change.
 
 Time (Eastern) | Topic | Presenters | Materials
