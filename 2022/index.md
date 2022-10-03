@@ -23,7 +23,7 @@ Time (Eastern) | Topic | Presenters | Materials
 [09:50-10:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T0950&p1=3723&am=40) | Token-based access to HPC resources in IRIS | Jens Jensen (UKRI-STFC), José Caballero Bejar (UKRI-STFC), Matt Rásó-Barnett (University of Cambridge)
 [10:30-11:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1030&p1=3723&am=30) | Coffee Break |
 [11:00-11:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1100&p1=3723&am=40) | Globus Integration with NIH's Researcher Auth Service (RAS) and the NIH's Common Fund Data Ecosystem (CFDE) Portal using OAuth, OIDC, and GA4GH Passports | Lee Liming (University of Chicago)
-[11:40-12:20](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1140&p1=3723&am=40) | Update on the Adoption of SciTokens and WLCG Tokens by LIGO and Fermilab using CILogon | Jim Basney (CILogon), Dave Dykstra (Fermilab)
+[11:40-12:20](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1140&p1=3723&am=40) | Update on the Adoption of SciTokens and WLCG Tokens by LIGO and Fermilab using CILogon | Jim Basney (CILogon), Dave Dykstra (Fermilab), Mine Altunay (Fermilab)
 [12:20-01:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1220&p1=3723&am=40) | All Hands Discussion | Derek Simmel
 
  
