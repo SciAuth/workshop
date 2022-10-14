@@ -11,14 +11,14 @@ Meeting ID: **955 9786 6619**
 Passcode: **584572**  
 Find your local phone number: [https://cmu.zoom.us/u/aiaoWuEoa](https://cmu.zoom.us/u/aiaoWuEoa)  
   
-**The meeting will be recorded. The recording will later be made available for online viewing after the workshop. Participation in the workshop on site or via Zoom implies your consent to be recorded, and permission to include your participation in the recording made available publicly online**.  
-  
 *As a courtesy to our presenters, please disable your video and remain on mute during presentations.*
 
 Workshop Materials and Recording
---------------------------------
-Workshop materials will be posted below as they become available.
-We expect to post the workshop recording to YouTube after the event.
+--------------------------------  
+**The meeting will be recorded. The recording will later be made available for online viewing after the workshop. Participation in the workshop on site or via Zoom implies your consent to be recorded, and permission to include your participation in the recording made available publicly online**.  
+  
+Workshop materials will be posted below as they become available.  
+*The link to the workshop recording on YouTube will appear here after the event.*
 
 Workshop Schedule
 ------------------
