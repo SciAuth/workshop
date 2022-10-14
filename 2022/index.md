@@ -10,8 +10,10 @@ Zoom Coordinates
 Meeting ID: **955 9786 6619**  
 Passcode: **584572**  
 Find your local phone number: [https://cmu.zoom.us/u/aiaoWuEoa](https://cmu.zoom.us/u/aiaoWuEoa)  
-**The meeting will be recorded**.   
-*To preserve bandwidth for the presenters, please disable your video and remain on mute during presentations.*
+  
+**The meeting will be recorded. The recording will later be made available for online viewing after the workshop. Participation in the workshop on site or via Zoom implies your consent to be recorded, and permission to include your participation in the recording made available publicly online**.  
+  
+*As a courtesy to our presenters, please disable your video and remain on mute during presentations.*
 
 Workshop Materials and Recording
 --------------------------------
