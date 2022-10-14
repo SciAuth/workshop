@@ -2,7 +2,16 @@
 title: "WoTBAn&Az 2022"
 ---
 
-The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2022) will be held Tuesday, October 18, co-located with the [2022 NSF Cybersecurity Summit](https://www.trustedci.org/2022-cybersecurity-summit) in Bloomington, Indiana, USA. Remote participation via Zoom will also be available. Contact <workshop@sciauth.org> for additional info.
+The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2022) will be held Tuesday, October 18, co-located with the [2022 NSF Cybersecurity Summit](https://www.trustedci.org/2022-cybersecurity-summit) in Bloomington, Indiana, USA. Contact <workshop@sciauth.org> for additional info.
+
+Zoom Coordinates
+----------------
+[https://cmu.zoom.us/j/95597866619?pwd=RHdzSHEySVpTNlRZWWl6cXFpM2ZXUT09](https://cmu.zoom.us/j/95597866619?pwd=RHdzSHEySVpTNlRZWWl6cXFpM2ZXUT09)  
+Meeting ID: **955 9786 6619**  
+Passcode: **584572**  
+Find your local phone number: [https://cmu.zoom.us/u/aiaoWuEoa](https://cmu.zoom.us/u/aiaoWuEoa)  
+**The meeting will be recorded**.   
+*To preserve bandwidth for the presenters, please disable your video and remain on mute during presentations.*
 
 Workshop Materials and Recording
 --------------------------------
@@ -12,7 +21,7 @@ We expect to post the workshop recording to YouTube after the event.
 Workshop Schedule
 ------------------
 
-The workshop will be held Tuesday, October 18, 2022.
+The workshop will be held Tuesday, October 18, 2022, from 9:00-13:00 Eastern Daylight Time (UTC -4:00).
 
 The following schedule is tentative and subject to change.
 
@@ -24,7 +33,7 @@ Time (Eastern) | Topic | Presenters | Materials
 [10:30-11:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1030&p1=3723&am=30) | Coffee Break |
 [11:00-11:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1100&p1=3723&am=40) | Globus Integration with NIH's Researcher Auth Service (RAS) and the NIH's Common Fund Data Ecosystem (CFDE) Portal using OAuth, OIDC, and GA4GH Passports | Lee Liming (University of Chicago)
 [11:40-12:20](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1140&p1=3723&am=40) | Update on the Adoption of SciTokens and WLCG Tokens by LIGO and Fermilab using CILogon | Jim Basney (CILogon), Dave Dykstra (Fermilab), Mine Altunay (Fermilab)
-[12:20-01:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1220&p1=3723&am=40) | All Hands Discussion | Derek Simmel
+[12:20-13:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1220&p1=3723&am=40) | All Hands Discussion | Derek Simmel
 
  
 About the Workshop
