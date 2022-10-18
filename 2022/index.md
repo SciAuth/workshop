@@ -2,28 +2,18 @@
 title: "WoTBAn&Az 2022"
 ---
 
-The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2022) will be held Tuesday, October 18, co-located with the [2022 NSF Cybersecurity Summit](https://www.trustedci.org/2022-cybersecurity-summit) in Bloomington, Indiana, USA. Contact <workshop@sciauth.org> for additional info.
+The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization (WoTBAn&Az 2022) was held Tuesday, October 18, co-located with the [2022 NSF Cybersecurity Summit](https://www.trustedci.org/2022-cybersecurity-summit) in Bloomington, Indiana, USA. Contact <workshop@sciauth.org> for additional info.
 
-Zoom Coordinates
-----------------
-[https://cmu.zoom.us/j/95597866619?pwd=RHdzSHEySVpTNlRZWWl6cXFpM2ZXUT09](https://cmu.zoom.us/j/95597866619?pwd=RHdzSHEySVpTNlRZWWl6cXFpM2ZXUT09)  
-Meeting ID: **955 9786 6619**  
-Passcode: **584572**  
-Find your local phone number: [https://cmu.zoom.us/u/aiaoWuEoa](https://cmu.zoom.us/u/aiaoWuEoa)  
-  
-*As a courtesy to our presenters, please disable your video and remain on mute during presentations.*
 
 Workshop Materials and Recording
---------------------------------  
-**The meeting will be recorded. The recording will later be made available for online viewing after the workshop. Participation in the workshop on site or via Zoom implies your consent to be recorded, and permission to include your participation in the recording made available publicly online**.  
-  
-Workshop materials will be posted below as they become available.  
-*The link to the workshop recording on YouTube will appear here after the event.*
+--------------------------------    
+Workshop materials are posted below.  
+*The link to the workshop recording on YouTube will appear here soon.*
 
 Workshop Schedule
 ------------------
 
-The workshop will be held Tuesday, October 18, 2022, from 9:00-13:00 Eastern Daylight Time (UTC -4:00).
+The workshop was held Tuesday, October 18, 2022, from 9:00-13:00 Eastern Daylight Time (UTC -4:00).
 
 Time (Eastern) | Topic | Presenters | Materials
 -------------- | ----- | ---------- | ---------
