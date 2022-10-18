@@ -25,8 +25,6 @@ Workshop Schedule
 
 The workshop will be held Tuesday, October 18, 2022, from 9:00-13:00 Eastern Daylight Time (UTC -4:00).
 
-The following schedule is tentative and subject to change.
-
 Time (Eastern) | Topic | Presenters | Materials
 -------------- | ----- | ---------- | ---------
 [09:00-09:10](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T0900&p1=3723&am=10) | Intro | Derek Simmel
