@@ -28,11 +28,11 @@ The workshop will be held Tuesday, October 18, 2022, from 9:00-13:00 Eastern Day
 Time (Eastern) | Topic | Presenters | Materials
 -------------- | ----- | ---------- | ---------
 [09:00-09:10](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T0900&p1=3723&am=10) | Intro | Derek Simmel
-[09:10-09:50](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T0910&p1=3723&am=40) | SSH with Federated Identities -- this time using OpenID Connect (OIDC) | Marcus Hardt, Diana Gudu, Gabriel Zachmann
-[09:50-10:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T0950&p1=3723&am=40) | Token-based access to HPC resources in IRIS | Jens Jensen (UKRI-STFC), José Caballero Bejar (UKRI-STFC), Matt Rásó-Barnett (University of Cambridge)
+[09:10-09:50](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T0910&p1=3723&am=40) | SSH with Federated Identities -- this time using OpenID Connect (OIDC) | Marcus Hardt, Diana Gudu, Gabriel Zachmann | [1](https://sciauth.org/workshop/2022/2022-10-18-ssh-oidc.pdf)
+[09:50-10:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T0950&p1=3723&am=40) | Token-based access to HPC resources in IRIS | Jens Jensen (UKRI-STFC), José Caballero Bejar (UKRI-STFC), Matt Rásó-Barnett (University of Cambridge) | [1](https://sciauth.org/workshop/2022/IRIS-IAM-WoTBAnAnAz-2022.pptx)
 [10:30-11:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1030&p1=3723&am=30) | Coffee Break |
 [11:00-11:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1100&p1=3723&am=40) | Globus Integration with NIH's Researcher Auth Service (RAS) and the NIH's Common Fund Data Ecosystem (CFDE) Portal using OAuth, OIDC, and GA4GH Passports | Lee Liming (University of Chicago) | [1](https://sciauth.org/workshop/2022/221018_WoTBAnAz_Globus_CFDE_RAS.pdf)
-[11:40-12:20](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1140&p1=3723&am=40) | Update on the Adoption of SciTokens and WLCG Tokens by LIGO and Fermilab using CILogon | Jim Basney (CILogon), Dave Dykstra (Fermilab), Mine Altunay (Fermilab) | [1](https://sciauth.org/workshop/2022/202210-cilogon-tokens.pdf) [3](https://sciauth.org/workshop/2022/Federation_Status_WoTBAn_10_18_22.pdf)
+[11:40-12:20](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1140&p1=3723&am=40) | Update on the Adoption of SciTokens and WLCG Tokens by LIGO and Fermilab using CILogon | Jim Basney (CILogon), Dave Dykstra (Fermilab), Mine Altunay (Fermilab) | [1](https://sciauth.org/workshop/2022/202210-cilogon-tokens.pdf) [2](https://sciauth.org/workshop/2022/Wotbananza_VaultUpdate_20221018.pdf) [3](https://sciauth.org/workshop/2022/Federation_Status_WoTBAn_10_18_22.pdf)
 [12:20-13:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T1220&p1=3723&am=40) | All Hands Discussion | Derek Simmel
 
  
