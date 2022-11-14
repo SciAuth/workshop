@@ -8,7 +8,7 @@ The 2022 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Aut
 Workshop Materials and Recording
 --------------------------------    
 Workshop materials are posted below.  
-*The link to the workshop recording on YouTube will appear here soon.*
+The workshop recording is posted here: <https://youtu.be/AiYWNHQaMKE>
 
 Workshop Schedule
 ------------------
